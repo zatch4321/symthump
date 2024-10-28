@@ -1,0 +1,31 @@
+{% extends "base.html" %} {% block head %}
+<title> MyBot </title>
+{% endblock head %} {% block hero %}
+
+<section id="hero" class="hero d-flex align-items-center">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 d-flex flex-column justify-content-center">
+                <h1 data-aos="fade-up">What is Mybot</h1>
+                <h2 data-aos="fade-up" data-aos-delay="400" style="text-align: justify;">
+                   <b> The healthcare industry is continuously looking for ways to improve patient experience and outcomes. One way to achieve this is by leveraging artificial intelligence (AI) to provide personalized recommendations and predictions based on patients symptoms and medical history. In this project, we propose the development of a hospital recommendation and disease prediction chatbot. The chatbot will be able to recognize symptoms and provide personalized recommendations for hospitals based on medical needs.</b> 
+
+                                   </h2>
+                <div data-aos="fade-up" data-aos-delay="600">
+                    <div class="text-center text-lg-start">
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 hero-img" data-aos="zoom-out" data-aos-delay="200">
+                <img src="{{ url_for('static',filename='custom/hero-main.png') }}" class="img-fluid" alt="">
+            </div>
+        </div>
+    </div>
+</section>
+
+{% endblock hero %} {% block main %}
+
+
+
+{% endblock main %}
