@@ -109,7 +109,8 @@ We welcome contributions from the community! If you have any improvements or new
 3. Commit changes to your branch.
 4. Submit a pull request to the `main` branch.
 
-Please make sure to test your changes thoroughly before submitting a PR.
+Please make s<img width="596" alt="bg1" src="https://github.com/user-attachments/assets/6c03e19f-9960-4ec4-a933-590f64e066d8">
+ure to test your changes thoroughly before submitting a PR.
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
