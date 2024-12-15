@@ -121,7 +121,6 @@ Please make sure to test your changes thoroughly before submitting a PR. 🧪
 
 ![image](https://github.com/user-attachments/assets/e2f2224c-57d2-41ee-8cea-19771292af06)
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+
 
 
